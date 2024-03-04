@@ -1,0 +1,10 @@
+{
+    "author": {
+        "name": "Kilmmer Kielblock",
+        "url": "https://github.com/kilmmer"
+    },
+    "description": "Teste de uma ideia",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
